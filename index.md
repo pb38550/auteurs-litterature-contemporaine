@@ -9,7 +9,7 @@ biographies, bibliographies, entretiens, articles, citations, liens utiles...
 
 ## Dossiers à venir
 
-- [France](./France.md)
+- [France](./france.md)
 - [Royaume-Uni](./uk.md)
 - [États-Unis](./usa.md)
 - [Autres régions](./autres.md)
