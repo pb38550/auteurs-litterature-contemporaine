@@ -1,0 +1,8 @@
+# Ignorer le binaire Tailwind CLI
+tailwindcss
+
+# Ignorer node_modules si jamais tu installes npm
+node_modules/
+
+# Ignorer les fichiers temporaires ou de debug
+*.log
