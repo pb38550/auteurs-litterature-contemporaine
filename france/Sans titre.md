@@ -20,5 +20,5 @@ Parce qu’elle a donné ses lettres de noblesse à la nouvelle contemporaine fr
 nouvelle, oralité, ellipse, ironie douce, quotidien
 
 ## Connexions
-Voir aussi : [Raymond Carver](../International/Raymond-Carver.md), [Jean Echenoz](../france/Jean-Echenoz.md), [Annie Ernaux](../france/Annie-Ernaux.md)
+Voir aussi : [Raymond Carver](../International/Raymond-Carver), [Jean Echenoz](../france/Jean-Echenoz), [Annie Ernaux](../france/Annie-Ernaux)
 

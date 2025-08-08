@@ -20,4 +20,4 @@ Parce qu’elle sait montrer comment une tomate, un champ ou une manifestation d
 poésie, politique, quotidien, fragmentation, observation
 
 ## Connexions
-Voir aussi : [Annie Ernaux](../france/Annie-Ernaux.md), [Jean-Christophe Bailly](../France/Jean-Christophe-Bailly.md), [Didier Eribon](../France/Didier-Eribon.md)
+Voir aussi : [Annie Ernaux](../france/Annie-Ernaux), [Jean-Christophe Bailly](../France/Jean-Christophe-Bailly.md), [Didier Eribon](../France/Didier-Eribon.md)

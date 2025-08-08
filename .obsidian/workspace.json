@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "france/Sans titre.md",
+                "file": "france/nathalie-quintane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "nathalie-quintane"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "france/Sans titre.md",
+                "file": "france/nathalie-quintane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Sans titre"
+              "title": "Rétrolien pour nathalie-quintane"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "france/Sans titre.md",
+                "file": "france/nathalie-quintane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Sans titre"
+              "title": "Liens sortants de nathalie-quintane"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "france/Sans titre.md",
+                "file": "france/nathalie-quintane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Sans titre"
+              "title": "Plan de nathalie-quintane"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "39e939c8288bf44b",
   "lastOpenFiles": [
+    "france/jean-echenoz.md",
+    "france/annie-ernaux.md",
     "france/nathalie-quintane.md",
     "france/Sans titre.md",
     "Readme.md",
     "france/index.md",
     "Nathlie Quintane.md",
     "index.md",
-    "france/annie-ernaux.md",
     "css/tailwind-optimized.min.css",
     "tailwindcss",
     "tailwind.config.js",

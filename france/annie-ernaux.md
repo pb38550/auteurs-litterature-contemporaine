@@ -20,4 +20,4 @@ Parce qu'elle a transformé la mémoire familiale en arme politique. Et que c'es
 mémoire, classe sociale, photographie mentale, filiation, politique
 
 ## Connexions
-Voir aussi : [Didier Eribon](../France/Didier-Eribon.md), [Nathalie Quintane](../France/Nathalie-Quintane.md), [Annie Saumont](../France/Annie-Saumont.md)
+Voir aussi : [Didier Eribon](../France/Didier-Eribon.md), [Nathalie Quintane](../France/Nathalie-Quintane), [Annie Saumont](../France/Annie-Saumont.md)
