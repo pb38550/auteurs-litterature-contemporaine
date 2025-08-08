@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "france/index.md",
+                "file": "International/raymond-carver.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "raymond-carver"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "france/index.md",
+                "file": "International/raymond-carver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour index"
+              "title": "Rétrolien pour raymond-carver"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "france/index.md",
+                "file": "International/raymond-carver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de index"
+              "title": "Liens sortants de raymond-carver"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "france/index.md",
+                "file": "International/raymond-carver.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de index"
+              "title": "Plan de raymond-carver"
             }
           }
         ]
@@ -171,14 +171,17 @@
   },
   "active": "39e939c8288bf44b",
   "lastOpenFiles": [
-    "france/annie-saumont.md",
+    "index.md",
+    "International/raymond-carver.md",
     "france/index.md",
+    "International/index.md",
+    "Readme.md",
+    "International",
+    "france/annie-saumont.md",
     "france/nathalie-quintane.md",
     "france/jean-echenoz.md",
     "france/annie-ernaux.md",
-    "Readme.md",
     "Nathlie Quintane.md",
-    "index.md",
     "css/tailwind-optimized.min.css",
     "tailwindcss",
     "tailwind.config.js",
