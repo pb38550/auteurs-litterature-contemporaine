@@ -5,3 +5,4 @@
 - [Mathieu Lindon](mathieu-lindon)
 - [Nathlie Quintane](nathalie-quintane)
 - [Jean Echenoz](jean-echenoz)
+- [Annie Saumont](annie-saumont)
