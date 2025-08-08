@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "france/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "france/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "france/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "france/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +171,17 @@
   },
   "active": "39e939c8288bf44b",
   "lastOpenFiles": [
+    "Nathlie Quintane.md",
     "france/index.md",
-    "index.md"
+    "index.md",
+    "france/nathalie-quintane.md",
+    "france/annie-ernaux.md",
+    "css/tailwind-optimized.min.css",
+    "tailwindcss",
+    "tailwind.config.js",
+    "src/input.css",
+    "css",
+    "src",
+    "tailwindcss-linux-x64"
   ]
 }
